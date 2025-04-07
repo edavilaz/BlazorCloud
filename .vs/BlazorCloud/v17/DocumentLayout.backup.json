@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\proyectos\\CLOUD\\BlazorCloud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD9D37F2-10B6-40E3-8084-E14443A2A682}|BlazorCloud.csproj|d:\\proyectos\\cloud\\blazorcloud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD9D37F2-10B6-40E3-8084-E14443A2A682}|BlazorCloud.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CD9D37F2-10B6-40E3-8084-E14443A2A682}|BlazorCloud.csproj|d:\\proyectos\\cloud\\blazorcloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD9D37F2-10B6-40E3-8084-E14443A2A682}|BlazorCloud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\proyectos\\CLOUD\\BlazorCloud\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\proyectos\\CLOUD\\BlazorCloud\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos\\CLOUD\\BlazorCloud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\proyectos\\CLOUD\\BlazorCloud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-07T12:04:38.597Z",
+              "WhenOpened": "2025-04-07T17:48:48.827Z",
               "EditorCaption": ""
             }
           ]

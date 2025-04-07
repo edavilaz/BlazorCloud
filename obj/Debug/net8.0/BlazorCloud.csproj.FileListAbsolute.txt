@@ -150,3 +150,4 @@ D:\proyectos\CLOUD\BlazorCloud\obj\Debug\net8.0\refint\BlazorCloud.dll
 D:\proyectos\CLOUD\BlazorCloud\obj\Debug\net8.0\BlazorCloud.pdb
 D:\proyectos\CLOUD\BlazorCloud\obj\Debug\net8.0\BlazorCloud.genruntimeconfig.cache
 D:\proyectos\CLOUD\BlazorCloud\obj\Debug\net8.0\ref\BlazorCloud.dll
+D:\proyectos\CLOUD\BlazorCloud\obj\Debug\net8.0\BlazorCloud.sourcelink.json
